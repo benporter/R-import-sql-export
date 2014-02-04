@@ -5,6 +5,10 @@ Starter R script with sample code for reading in data from Excel, performing SQL
 
 ===================
 
+<img src="http://i.imgur.com/QVgK9JX.jpg"/>
+
+===================
+
 The code is organized in the following way--
 
 Import:
@@ -31,4 +35,3 @@ Export Examples:
  - .csv
  - .txt (tab delimited)
 
-<img src="http://i.imgur.com/QVgK9JX.jpg"/>
