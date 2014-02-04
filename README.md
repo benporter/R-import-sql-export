@@ -30,3 +30,5 @@ Export Examples:
  - .xlsx
  - .csv
  - .txt (tab delimited)
+
+<img src="http://i.imgur.com/QVgK9JX.jpg"/>
